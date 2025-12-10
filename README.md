@@ -32,6 +32,7 @@ I recently completed my BS in Computer Science from COMSATS Lahore and have hand
 
 ### ⭐ Draft – Cricket Drafting Game *(Private Repo)*  
 ![WhatsApp Image 2025-12-10 at 5 31 06 PM](https://github.com/user-attachments/assets/7a19cc7e-d012-4b50-b513-4f84f504897b)
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/603ff9dd-91f4-4c3c-ad2f-41daf0ca3453" />
 
 **Tech:** React Native, TypeScript, Supabase, Expo, SQLite, R3F, Reanimated  
 - Multiplayer & single-player cricket drafting system  
@@ -42,20 +43,23 @@ I recently completed my BS in Computer Science from COMSATS Lahore and have hand
 
 ---
 
+### ⭐ Progressive Overload – Fitness Tracking App *(Private Repo)*  
+<img width="720" height="1532" alt="image" src="https://github.com/user-attachments/assets/39f1cb5b-2ced-4327-bfa2-e23c0e27a9d7" />
+<img width="720" height="1417" alt="image" src="https://github.com/user-attachments/assets/78e06f28-23b6-410a-941d-23c75c1a41a7" />
+
+**Tech:** React Native, Expo, SQLite, Drizzle ORM  
+- Local-first fitness tracker for gym progress  
+- Fast queries with Drizzle over SQLite  
+- Clean UI with reusable component patterns  
+📌 *Source code is private — demo access available on request*
+
+---
+
 ### ⭐ Snooky – Snooker Scoring & Profile Builder *(Private Repo)*  
 **Tech:** React Native, TypeScript, Supabase  
 - Real-time snooker scoring UI  
 - Player profile analytics & performance tracking  
 - Auth + real-time data sync with Supabase  
-📌 *Source code is private — demo access available on request*
-
----
-
-### ⭐ Progressive Overload – Fitness Tracking App *(Private Repo)*  
-**Tech:** React Native, Expo, SQLite, Drizzle ORM  
-- Local-first fitness tracker for gym progress  
-- Fast queries with Drizzle over SQLite  
-- Clean UI with reusable component patterns  
 📌 *Source code is private — demo access available on request*
 
 ---
