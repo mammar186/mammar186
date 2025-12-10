@@ -31,6 +31,8 @@ I recently completed my BS in Computer Science from COMSATS Lahore and have hand
 ## 📱 Projects
 
 ### ⭐ Draft – Cricket Drafting Game *(Private Repo)*  
+![WhatsApp Image 2025-12-10 at 5 31 06 PM](https://github.com/user-attachments/assets/7a19cc7e-d012-4b50-b513-4f84f504897b)
+
 **Tech:** React Native, TypeScript, Supabase, Expo, SQLite, R3F, Reanimated  
 - Multiplayer & single-player cricket drafting system  
 - Real-time team selection using Supabase listeners  
@@ -66,21 +68,14 @@ I recently completed my BS in Computer Science from COMSATS Lahore and have hand
 
 ---
 
-## 📈 GitHub Stats (Optional – Add if you like)
-
-![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
 
 ## 📫 Connect With Me
 
 - **Email:** muhammadammar1806dev@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/USERNAME  
-- **Portfolio:** (add if available)
+- **LinkedIn:** www.linkedin.com/in/muhammad-ammar-01240b314  
 
 ---
 
-### 💡 Final Note
-I’m actively looking for **React Native internships or junior developer roles**.  
+### 💡 Final Note 
 If my work interests you, feel free to reach out — I’d love to collaborate!
 
