@@ -64,8 +64,7 @@ I recently completed my BS in Computer Science from COMSATS Lahore and have hand
 
 ---
 
-## 🌱 Currently Learning
-- Advanced mobile animations (Reanimated 3)  
+## 🌱 Currently Learning 
 - React Native performance optimization  
 - Backend integration best practices  
 - Deployment workflows using Expo EAS  
