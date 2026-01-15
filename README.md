@@ -33,10 +33,10 @@ I recently completed my BS in Computer Science from COMSATS Lahore and have hand
 ### ⭐ Draft – Cricket Drafting Game *(Private Repo)*  
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/bd6466c2-c5e9-49af-8710-de9fd8683141" />
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/380202f0-0f7c-4d75-91b9-123e5fafa421" />
-![WhatsApp Image 2025-11-28 at 6 29 42 PM (1)](https://github.com/user-attachments/assets/a47a605b-56b2-473f-bb02-14ebbe7a1812)
-![WhatsApp Image 2025-11-28 at 6 29 42 PM (3)](https://github.com/user-attachments/assets/79b15a2a-a0de-485c-abb0-25c996c28ef5)
-![WhatsApp Image 2025-11-28 at 6 29 42 PM (4)](https://github.com/user-attachments/assets/96b9e736-92c0-414e-a549-b914b9815e8f)
-![WhatsApp Image 2025-11-28 at 6 29 42 PM (5)](https://github.com/user-attachments/assets/881f66c6-6dae-464f-af63-c04b721e3316)
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/acf74aa5-1c38-42dc-bed6-3a6108898d63" />
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/546ae4e3-49b0-4189-969e-dea3760a365f" />
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/444806b5-ecb9-46c6-8405-ab157993fee5" />
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/2c4ed0bc-4d8a-4511-b523-35a1a325c52c" />
 
 **Tech:** React Native, TypeScript, Supabase, Expo, SQLite, R3F, Reanimated  
 - Multiplayer & single-player cricket drafting system  
