@@ -31,8 +31,12 @@ I recently completed my BS in Computer Science from COMSATS Lahore and have hand
 ## 📱 Projects
 
 ### ⭐ Draft – Cricket Drafting Game *(Private Repo)*  
-![WhatsApp Image 2025-12-10 at 5 31 06 PM](https://github.com/user-attachments/assets/7a19cc7e-d012-4b50-b513-4f84f504897b)
-<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/603ff9dd-91f4-4c3c-ad2f-41daf0ca3453" />
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/bd6466c2-c5e9-49af-8710-de9fd8683141" />
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/380202f0-0f7c-4d75-91b9-123e5fafa421" />
+![WhatsApp Image 2025-11-28 at 6 29 42 PM (1)](https://github.com/user-attachments/assets/a47a605b-56b2-473f-bb02-14ebbe7a1812)
+![WhatsApp Image 2025-11-28 at 6 29 42 PM (3)](https://github.com/user-attachments/assets/79b15a2a-a0de-485c-abb0-25c996c28ef5)
+![WhatsApp Image 2025-11-28 at 6 29 42 PM (4)](https://github.com/user-attachments/assets/96b9e736-92c0-414e-a549-b914b9815e8f)
+![WhatsApp Image 2025-11-28 at 6 29 42 PM (5)](https://github.com/user-attachments/assets/881f66c6-6dae-464f-af63-c04b721e3316)
 
 **Tech:** React Native, TypeScript, Supabase, Expo, SQLite, R3F, Reanimated  
 - Multiplayer & single-player cricket drafting system  
