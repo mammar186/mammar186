@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Ammar  
-### React Native Developer | TypeScript | Expo | Supabase | Zustand | React Three Fiber
+### React Native Developer | Expo | TypeScript | React Three Fiber
 
 I'm a passionate React Native developer focused on building high-quality, cross-platform mobile apps.  
 I love working with performance-optimized components, clean UI/UX, smooth animations, and real-time app features.
